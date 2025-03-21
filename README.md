@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project analyzes OLA ride data using SQL and Power BI to derive insights on ride volumes, booking statuses, customer behaviors, and revenue trends. The dataset includes details such as ride distance, vehicle types, customer and driver ratings, and cancellation reasons.
+This project analyzes Uber ride data using SQL and Power BI to derive insights on ride volumes, booking statuses, customer behaviors, and revenue trends. The dataset includes details such as ride distance, vehicle types, customer and driver ratings, and cancellation reasons.
 
 Project Files
 
